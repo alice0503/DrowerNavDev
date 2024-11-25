@@ -19,7 +19,9 @@
         <item name="windowNoTitle">true</item>
     </style>
 
-    <style name="Theme.DrowerNavDev.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="Theme.DrowerNavDev.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+    <item name="colorPrimary">#6D82EF</item>
+    </style>
 
     <style name="Theme.DrowerNavDev.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 </resources>
